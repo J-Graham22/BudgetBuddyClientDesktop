@@ -1,0 +1,1 @@
+C:\Users\justi\Documents\Programming Projects\C#\BudgetBuddyClientDesktop\BudgetBuddyClientDesktop\BudgetBuddyClientDesktop\BudgetBuddyClientDesktop.csproj;x64
