@@ -12,6 +12,9 @@
     <None Update="AppShell.xaml">
       <SubType>Designer</SubType>
     </None>
+    <None Update="DetailPage.xaml">
+      <SubType>Designer</SubType>
+    </None>
     <None Update="MainPage.xaml">
       <SubType>Designer</SubType>
     </None>
